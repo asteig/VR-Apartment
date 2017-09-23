@@ -1,4 +1,6 @@
 # VR Apartment
+![screenshot](https://raw.githubusercontent.com/asteig/VR-Apartment/master/screenshot.png)
+
 Nanodegree Project #2
 
 ## Versions
