@@ -141,7 +141,7 @@ PlayerSettings:
   targetPixelDensity: 0
   resolutionScalingMode: 0
   applicationIdentifier:
-    Android: com.Udacity.BuildAnApartment
+    Android: com.AmandaSteigerwalt.Course2Project
     Standalone: com.Udacity.BuildAnApartment
     Tizen: com.MattSonic.Course2Project
     iOS: com.Udacity.BuildAnApartment
