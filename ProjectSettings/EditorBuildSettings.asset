@@ -5,6 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/UdacityVR/Scenes/Build an Apartment.unity
     guid: 87f328043802ea247a72626774901493
