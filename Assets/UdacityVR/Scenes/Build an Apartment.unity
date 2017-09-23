@@ -3327,7 +3327,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!23 &1162910704
 MeshRenderer:
@@ -5100,6 +5100,18 @@ Prefab:
     - target: {fileID: 10809592, guid: ed145baa4e3800f499a9cad774c3ab69, type: 2}
       propertyPath: m_Shadows.m_Type
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 142564, guid: ed145baa4e3800f499a9cad774c3ab69, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 178486, guid: ed145baa4e3800f499a9cad774c3ab69, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 131660, guid: ed145baa4e3800f499a9cad774c3ab69, type: 2}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ed145baa4e3800f499a9cad774c3ab69, type: 2}
